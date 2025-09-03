@@ -8,3 +8,6 @@ You can find more information [here](https://www.unomaha.edu/college-of-informat
 Their student group NuLLIFY hosts a high school CTF competition every year.  
 You can find more information on their [webpage](http://ctf.nullify.uno/).  
 They will be hosting another high school CTF again this year.  
+
+
+Matthew Vandergriff checking in
